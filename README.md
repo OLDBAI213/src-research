@@ -18,11 +18,12 @@
 
 ---
 
-## 📁 内容
+## 📁 内容导航
 
 ### 🏗️ 平台与规则
 - [SRC挖洞实战指南](docs/SRC挖洞实战指南.md) — 补天/漏洞盒子完整使用指南
 - [SRC新手挖洞策略](docs/SRC新手挖洞策略.md) — 什么漏洞最容易出洞
+- [网安SRC学习计划](docs/网安SRC学习计划.md) — 30天系统学习路线
 
 ### 🔧 实操与工具
 - [SRC挖洞具体操作手册](docs/SRC挖洞具体操作手册.md) — 打开什么工具、输入什么、看什么结果
@@ -37,9 +38,20 @@
 - [SRC法律风险与合规指南](docs/SRC法律风险与合规指南.md) — 法律边界、真实判例
 - [SRC失败教训与避坑指南](docs/SRC失败教训与避坑指南.md) — 被拒原因、收入真相
 
+### 📊 能力评估
+- [小白成为白客的能力评估](docs/小白成为白客的能力评估.md) — AI Agent渗透测试实战可行性分析
+
 ### 🔬 框架分析
 - [PentAGI深度研究](docs/PentAGI深度研究.md) — 选型结论
 - [Pentest-Swarm-AI架构分析](docs/Pentest-Swarm-AI架构分析.md) — 蜂群架构设计
+- [Pentest-Swarm-AI工具调用详解](docs/Pentest-Swarm-AI工具调用详解.md) — 工具调用机制
+- [Pentest-Swarm-AI代码深度分析](docs/项目解剖/Pentest-Swarm-AI代码深度分析.md) — 源码级分析
+
+### 🔬 项目解剖
+- [EverOS深度研究](docs/项目解剖/EverOS深度研究.md) — AI Agent操作系统研究
+- [LLM-Wiki深度研究](docs/项目解剖/LLM-Wiki深度研究.md) — 知识库构建方案
+- [Superpowers与OpenHarness深度研究](docs/项目解剖/Superpowers与OpenHarness深度研究.md) — Agent增强框架
+- [TencentDB-Agent-Memory深度研究](docs/项目解剖/TencentDB-Agent-Memory深度研究.md) — 记忆系统方案
 
 ### 📊 研究全景
 - [网安SRC方向全景研究](docs/网安SRC方向全景研究.md) — 平台全景、学习路线
@@ -51,11 +63,11 @@
 
 | 指标 | 数据 |
 |------|------|
-| 研究笔记 | ~230KB 中文内容 |
+| 研究笔记 | ~350KB 中文内容 |
 | 真实案例 | 12个完整案例 |
-| 框架分析 | 3个（PentAGI / Shannon / Pentest-Swarm-AI） |
-| 信息泄露通过率 | 80% |
-| PentAGI检出率 | 45%（开源组最高） |
+| 框架分析 | 4个（PentAGI / Pentest-Swarm-AI / EverOS / LLM-Wiki） |
+| 学习计划 | 30天系统路线 |
+| 能力评估 | 完整的AI Agent渗透可行性分析 |
 
 ---
 
